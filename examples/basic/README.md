@@ -16,8 +16,19 @@ Waiting for changeset to be created..
 Waiting for stack create/update to complete
 Successfully created/updated stack - delo-sam-basic-project
 ```
-## You must now have this following aws services:
+## You must now have this aws CloudFormation:
 
-### aws CloudFormation _(CloudFormation/Stacks)_
+#### aws CloudFormation _(CloudFormation/Stacks)_
 
+![cfn1](../images/cfn1.PNG)
+
+## Generated aws services
+
+* aws ApiGateway
+* aws Lambda
+* aws IAM
+
+#### aws CloudFormation _(CloudFormation/Stacks/delo-sam-basic-project)_
+
+![cfn1](../images/cfn2.PNG)
 
